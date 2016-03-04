@@ -16,3 +16,14 @@ http://docs.openstack.org/user-guide-admin/cli_nova_specify_host.html
 https://ask.openstack.org/en/question/63564/failed-to-allocate-the-networks-not-rescheduling/
 http://askubuntu.com/questions/87665/how-do-i-change-the-hostname-without-a-restart
 http://superuser.com/questions/153559/how-can-i-clear-the-ip-address-of-ethernet-interface-without-cycling-the-interfa
+http://baturin.org/docs/iproute2/#Create a VLAN interface
+http://unix.stackexchange.com/questions/31763/bring-down-and-delete-bridge-interface-thats-up
+http://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/
+http://www.howtogeek.com/168119/fixing-warning-unprotected-private-key-file-on-linux/
+http://serverfault.com/questions/509417/ssh-keys-wont-allow-for-me-to-log-into-a-ubuntu-openstack-image
+https://ask.openstack.org/en/question/1973/vm-can-not-ping-outer-world-with-domain-name/
+http://unix.stackexchange.com/questions/128220/how-do-i-set-my-dns-when-resolv-conf-is-being-overwritten
+http://unix.stackexchange.com/questions/128220/how-do-i-set-my-dns-when-resolv-conf-is-being-overwritten/163506#163506
+https://ask.openstack.org/en/question/5241/no-internet-connection-in-vms/
+https://ask.openstack.org/en/question/66522/vlan-tagged-external-network-in-openstack/
+http://docs.ocselected.org/openstack-manuals/kilo/networking-guide/content/under_the_hood_openvswitch.html
